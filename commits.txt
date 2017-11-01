@@ -1,0 +1,11 @@
+commit 0daf3668ce456a81df913d60bb9aa58eb4a9a099
+Author: Mauricio Cuba <ignandymausan@gmail.com>
+Date:   Wed Nov 1 10:05:01 2017 -0400
+
+    Reloj ver2
+
+commit f752947f59fd4d6cab2bfcc70cda01191067a05d
+Author: Mauricio Cuba <ignandymausan@gmail.com>
+Date:   Mon Oct 30 19:06:28 2017 -0400
+
+    first comitment reloj
